@@ -1,4 +1,4 @@
-
+/* global app */
 
 app.controller('MinMaxCtrl', function($scope){
 		$scope.formModel = {};

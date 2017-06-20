@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ghigbie/Angular-Single-Page-Apps#readme",
   "dependencies": {
     "angular": "^1.6.4",
+    "ejs": "^2.5.6",
     "express": "^4.15.3"
   }
 }
